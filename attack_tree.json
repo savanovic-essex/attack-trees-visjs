@@ -1,0 +1,106 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "name": "open safe"
+    },
+    {
+      "id": 2,
+      "name": "pick lock"
+    },
+    {
+      "id": 3,
+      "name": "learn combo"
+    },
+    {
+      "id": 4,
+      "name": "cut open safe"
+    },
+    {
+      "id": 5,
+      "name": "install improperly"
+    },
+    {
+      "id": 6,
+      "name": "find written combo"
+    },
+    {
+      "id": 7,
+      "name": "get combo from target"
+    },
+    {
+      "id": 8,
+      "name": "threaten"
+    },
+    {
+      "id": 9,
+      "name": "blackmail"
+    },
+    {
+      "id": 10,
+      "name": "eavesdrop"
+    },
+    {
+      "id": 11,
+      "name": "bribe"
+    },
+    {
+      "id": 12,
+      "name": "listen to conversation"
+    },
+    {
+      "id": 13,
+      "name": "get target to state combo"
+    }
+  ],
+  "edges": [
+    {
+      "from": 1,
+      "to": 2
+    },
+    {
+      "from": 1,
+      "to": 3
+    },
+    {
+      "from": 1,
+      "to": 4
+    },
+    {
+      "from": 1,
+      "to": 5
+    },
+    {
+      "from": 3,
+      "to": 6
+    },
+    {
+      "from": 3,
+      "to": 7
+    },
+    {
+      "from": 7,
+      "to": 8
+    },
+    {
+      "from": 7,
+      "to": 9
+    },
+    {
+      "from": 7,
+      "to": 10
+    },
+    {
+      "from": 7,
+      "to": 11
+    },
+    {
+      "from": 10,
+      "to": 12
+    },
+    {
+      "from": 10,
+      "to": 13
+    }
+  ]
+}
