@@ -2,55 +2,55 @@
   "nodes": [
     {
       "id": 1,
-      "name": "open safe"
+      "name": "Open Safe"
     },
     {
       "id": 2,
-      "name": "pick lock"
+      "name": "Pick Lock"
     },
     {
       "id": 3,
-      "name": "learn combo"
+      "name": "Learn Combo"
     },
     {
       "id": 4,
-      "name": "cut open safe"
+      "name": "Cut Open Safe"
     },
     {
       "id": 5,
-      "name": "install improperly"
+      "name": "Install Improperly"
     },
     {
       "id": 6,
-      "name": "find written combo"
+      "name": "Find Written Combo"
     },
     {
       "id": 7,
-      "name": "get combo from target"
+      "name": "Get Combo From Target"
     },
     {
       "id": 8,
-      "name": "threaten"
+      "name": "Threaten"
     },
     {
       "id": 9,
-      "name": "blackmail"
+      "name": "Blackmail"
     },
     {
       "id": 10,
-      "name": "eavesdrop"
+      "name": "Eavesdrop"
     },
     {
       "id": 11,
-      "name": "bribe"
+      "name": "Bribe"
     },
     {
       "id": 12,
-      "name": "listen to conversation"
+      "name": "Listen To Conversation"
     },
     {
       "id": 13,
-      "name": "get target to state combo"
+      "name": "Get Target To State Combo"
     }
   ],
   "edges": [
