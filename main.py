@@ -7,7 +7,6 @@ import webbrowser
 
 from pyvis.network import Network
 
-got_net = Network(height="600px", width="100%", bgcolor="#222222", font_color="white")
 attack_tree_net = Network(height="100%", width="50%", bgcolor="#222222", font_color="white", layout=True)
 
 # JSON file
